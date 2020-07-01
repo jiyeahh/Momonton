@@ -1,4 +1,6 @@
 # Momonton
 A clone of the productivity chrome app Momentum on Vanilla JS   
+   
+   바닐라JS로 크롬 TODO 앱 만들기
 
-JavaScript는 웹에서 쓰이는 프로그래밍 언어이다.
+출처 :  https://nomadcoders.co/javascript-for-beginners/lobby
