@@ -24,8 +24,9 @@ function askForName(){
 function paintGreeting(text){
     form.classList.remove(SHOWING_CN);
     greeting.classList.add(SHOWING_CN);
-    greeting.innerText = `Hello ${text}`;
+    greeting.innerText = `★Hello ${text} !★`;
 }
+
 function localName(){
     const currentUser = localStorage.getItem(USER_LS);
     if(currentUser === null){
