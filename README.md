@@ -6,5 +6,5 @@ A clone of the productivity chrome app Momentum on Vanilla JS
    index.html파일을 보세요~   
 
 
-   codesandbox는 javascript 코딩연습파일 입니다.
+   codesandbox는 javascript 코딩연습파일 입니다.   
 출처 :  https://nomadcoders.co/javascript-for-beginners/lobby
